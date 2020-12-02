@@ -203,7 +203,7 @@ winner(){
       
     
 <View style = {{ flex : 1  , justifyContent: "center" , borderColor : "red"  , borderwidth : 1, }}>
-    <View style = {{alignSelf : "center", justifyContent: "center" }}>{this.state.player1 == "true" ? <Text  style={{transform: [{rotateY: '180deg'}], fontSize: 24,}}>Player2</Text> : <Text style={{transform: [{rotateY: '180deg'}] , fontSize: 24,}}>Player1</Text>}</View>
+    <View style = {{alignSelf : "center", justifyContent: "center" }}>{this.state.player1 == "true" ? <Text  style={{transform: [{rotateY: '180deg'}], fontSize: 24,}}>Player2fahad</Text> : <Text style={{transform: [{rotateY: '180deg'}] , fontSize: 24,}}>Player1</Text>}</View>
   
 <View style = {{ borderColor : "red"  , borderwidth : 1, paddingTop : "10%" ,flexDirection : "row" ,
     justifyContent: 'center', alignSelf: 'center',   
